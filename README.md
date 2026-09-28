@@ -3,8 +3,8 @@
 A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper motors. The gearbox was fully designed from scratch in **Autodesk Fusion 360** and is intended to be manufactured using 3D printing.
 
 <p align="center">
-  <img src="images/full_outside_view.png" width="30%" />
-  <img src="images/opened_view.png" width="30%" />
+  <img src="images/rotating.gif" width="30%" />
+  <img src="images/robot.gif" width="30%" />
   <img src="images/exploding_gif.gif" width="30%" />
 </p>
 
@@ -17,6 +17,12 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 - **Manufacturing:** 3D printed
 - **CAD:** Autodesk Fusion 360
 - **Controller:** Arduino-compatible
+
+<p align="center">
+  <img src="images/full_outside_view.png" width="30%" />
+  <img src="images/opened_view.png" width="30%" />
+  <img src="images/exploding_gif.gif" width="30%" />
+</p>
 
 ## Project Cyclone
 
