@@ -8,9 +8,7 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 </p>
   
 <p align="center">
-  <em>The actual drive functionning</em>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>The drive actuating the first joint of the Cyclone project robot</em>
+  <em>The actual drive functionning on its own / actuating the first joint of the **Cyclone project** robot.</em>
 </p>
 
 ## Specifications
@@ -30,7 +28,7 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 </p>
 
 <p align="center">
-  <em>Vue explosé à tout les niveaux du reducteur</em>
+  <em>Different views of the drive in Fusion360.</em>
 </p>
 
 ## Project Cyclone
