@@ -31,7 +31,7 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 <p align="center">
   <img src="images/full_outside_view.png" width="30%" />
   <img src="images/opened_view.png" width="30%" />
-  <img src="images/exploding_gif.gif" width="30%" />
+  <img src="images/exploding_gif.gif" width="70%" />
 </p>
 
 ## Project Cyclone
