@@ -5,6 +5,13 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 <p align="center">
   <img src="images/rotating1.gif" width="30%" />
   <img src="images/robot.gif" width="30%" />
+<p align="center">
+  <em>Réducteur en fonctionnement</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Intégration sur le bras robotique</em>
+</p>
+
+<p align="center">
   <img src="images/exploding_gif.gif" width="30%" />
 </p>
 
