@@ -12,7 +12,10 @@ A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper m
 </p>
 
 <p align="center">
-  <img src="images/exploding_gif.gif" width="30%" />
+  <img src="images/exploding_gif.gif" width="70%" />
+</p>
+<p align="center">
+  <em>Vue explosé à tout les niveaux du reducteur</em>
 </p>
 
 ## Specifications
