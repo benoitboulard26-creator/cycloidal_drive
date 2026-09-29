@@ -1,6 +1,6 @@
 # Cycloidal Drive – NEMA 17
 
-A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper motors. The gearbox was fully designed from scratch in **Autodesk Fusion 360** and is intended to be manufactured using 3D printing. The drive itself is in "outter-rotor" configuration, meaning the pins are stationary and the outer-rim is the rotor.
+A compact **20:1 cycloidal gearbox** designed specifically for NEMA 17 stepper motors. The gearbox was fully designed from scratch in **Autodesk Fusion 360** and is intended to be manufactured using 3D printing. The drive itself is in "outer-rotor" configuration, meaning the pins are stationary and the outer-rim is the rotor.
 
 <p align="center">
   <img src="images/rotating1.gif" width="30%" />
